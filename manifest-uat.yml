@@ -3,4 +3,4 @@ applications:
 - name: spring-music-uat
   memory: 1G
   buildpack: java_buildpack
-  host: s1p-10-spring-music-uat
+  host: s1p-mds-spring-music-uat
