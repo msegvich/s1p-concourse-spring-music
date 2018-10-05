@@ -22,3 +22,4 @@ build/
 
 pipeline-params.yml
 .DS_Store
+mds-params.yml
